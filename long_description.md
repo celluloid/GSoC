@@ -1,12 +1,19 @@
-## You don't need to learn another language to do high-performance programming in Ruby.
+## Do high-performance multi-threaded multi-core programming in Ruby.
 
-Instead of resorting to Erlang, Elixr, Rust, Go, and frameworks like Akka to use the [Actor Model](https://goo.gl/YuzMrv) or do [Event-driven Programming](https://goo.gl/hs231Y), keep writing Ruby code in new ways. With Celluloid, anyone can write their own server applications, using Ruby. But it doesn't stop at server applications...
+Instead of resorting Erlang, Elixr, Rust, Go, and Akka to use the [Actor Model](https://goo.gl/YuzMrv) or do [Event-driven Programming](https://goo.gl/hs231Y), keep writing more and more powerful Ruby code in new ways. With Celluloid, anyone can write their own server applications. But it doesn't stop at server applications...
 
 ### Celluloid is a Ruby gem that lets you turn any object into an Actor.
 
 The joy of writing Ruby code doesn't end at high-performance concurrent, parallel, asynchronous, and distributed programming. Using the beautiful Ruby language and Celluloid, any kind of application can take full advantage of modern CPU's and cloud computing platforms, using the Actor model and Evented programming.
 
-There are several gems in the Celluloid suite, and together they provide a complete toolset for actor-based evented multi-threaded, multi-core programming in Ruby.
+There are several gems in the Celluloid suite, and together they provide a complete toolset for actor-based evented multi-threaded, multi-core programming in Ruby:
+
+* [Celluloid](https://github.com/celluloid/celluloid)
+* [Celluloid::IO](https://github.com/celluloid/celluloid-io)
+* [Celluloid::ZMQ](https://github.com/celluloid/celluloid-zmq)
+* [Reel](https://github.com/celluloid/reel)
+* [DCell](https://github.com/celluloid/dcell)
+* Several [more](https://github.com/celluloid)...
 
 ## Some examples of Celluloid uses...
 
