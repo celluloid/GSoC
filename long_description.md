@@ -4,7 +4,9 @@ Instead of pulling out Erlang, Elixr, Rust, Go, and frameworks like Akka to use 
 
 ### Celluloid is a Ruby gem that lets you turn any object into an Actor.
 
-The joy of writing Ruby code doesn't end at high-performance concurrent, parallel, asynchronous, and distributed programming. Using the beautiful Ruby language and Celluloid, any kind of application can take full advantage of modern CPU's, and cloud computing platforms. There are several gems in the Celluloid suite, and together they provide a complete toolset for multi-threaded, multi-core programming in Ruby.
+The joy of writing Ruby code doesn't end at high-performance concurrent, parallel, asynchronous, and distributed programming. Using the beautiful Ruby language and Celluloid, any kind of application can take full advantage of modern CPU's and cloud computing platforms, using the Actor model and Evented programming.
+
+There are several gems in the Celluloid suite, and together they provide a complete toolset for actor-based evented multi-threaded, multi-core programming in Ruby.
 
 ## Some examples of Celluloid uses...
 
