@@ -6,7 +6,7 @@
 
 * Find out how where we [communicate](https://github.com/celluloid/GSoC/wiki/Communication).
 
-* Browse our repositories:
+* **Browse our repositories:**
   * [Celluloid][1]
   * [Celluloid::IO][2]
   * [Celluloid::ZMQ][3]
