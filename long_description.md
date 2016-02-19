@@ -1,6 +1,6 @@
 ## You don't need to learn another language to do high-performance programming in Ruby.
 
-Instead of pulling out Erlang, Elixr, Rust, Go, and frameworks like Akka to use the [Actor Model](https://goo.gl/YuzMrv) or do [Event-driven Programming](https://goo.gl/hs231Y). With Celluloid, anyone can write their own server applications, using Ruby. But it doesn't stop at server applications...
+Instead of resorting to Erlang, Elixr, Rust, Go, and frameworks like Akka to use the [Actor Model](https://goo.gl/YuzMrv) or do [Event-driven Programming](https://goo.gl/hs231Y), keep writing Ruby code in new ways. With Celluloid, anyone can write their own server applications, using Ruby. But it doesn't stop at server applications...
 
 ### Celluloid is a Ruby gem that lets you turn any object into an Actor.
 
