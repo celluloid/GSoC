@@ -1,6 +1,6 @@
 ## Do multi-threaded multi-core programming in Ruby.
 
-Instead of resorting to Erlang, Elixr, Rust, Go, and Akka to use the [Actor Model](https://goo.gl/YuzMrv) or do [Event-driven Programming](https://goo.gl/hs231Y), keep writing more and more powerful Ruby code in new ways. With Celluloid, anyone can write their own server applications. But it doesn't stop at server applications...
+Instead of resorting to Erlang, Elixr, Rust, Go, and Akka to use the [Actor Model](https://goo.gl/YuzMrv) or do [Event-driven Programming](https://goo.gl/hs231Y), keep writing more and more powerful Ruby code in new ways. With Celluloid, anyone can write their own high-performance, light-weight server applications. But it doesn't stop at server applications...
 
 ### Celluloid is a Ruby gem that lets you turn any object into an Actor.
 
