@@ -2,22 +2,22 @@
 
 Have you ever wanted to work with multi-threaded, multi-core applications and servers?
 
-Take a look through our [Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List) or put together a proposal for a project of your own design.
+Take a look through our [Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List) or put together a proposal for a project of your own idea.
 
 ## Prerequisites
 
-Students must be comfortable with the [Ruby](http://ruby-lang.org) programming language, and have a working understanding of multi-threaded programming.
+Students must be comfortable with the [Ruby programming language](http://ruby-lang.org), and have a working understanding of multi-threaded programming.
 
 ## Important Concepts
 
 You will want to familiarize yourself with these core ideas, beyond the prerequisites:
 
-* [Actor Model](https://en.wikipedia.org/wiki/Actor_model).
-* [Event-driven Programming](https://en.wikipedia.org/wiki/Event-driven_programming).
-* [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock).
-* [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing).
-* [Concurreny computing](https://en.wikipedia.org/wiki/Concurrent_computing).
-* [Asynchrony](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming).
+* [Actor Model](https://goo.gl/YuzMrv).
+* [Event-driven Programming](https://goo.gl/hs231Y).
+* [Global Interpreter Lock](https://goo.gl/rLtw1l).
+* [Parallel computing](https://goo.gl/srI0FK).
+* [Concurreny computing](https://goo.gl/lAHFQ0).
+* [Asynchrony](https://goo.gl/V6qNWD).
 
 ## Putting together your proposal...
 
