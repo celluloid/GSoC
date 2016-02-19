@@ -1,6 +1,6 @@
 ## Celluloid in the Google Summer of Code
 
-* Check out our **[Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List)** for projects.
+* Check out our **[Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List)**.
 
 * Read our [Proposal Guidelines](https://github.com/celluloid/GSoC/blob/master/proposals_guidelines.md).
 
