@@ -4,9 +4,24 @@ Have you ever wanted to work with multi-threaded, multi-core applications and se
 
 Take a look through our [Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List) or put together a proposal for a project of your own design.
 
-## Putting together your proposal:
+## Prerequisites
 
-Please be sure to pay close attention to answer these questions in your project proposals this year:
+Students must be comfortable with the [Ruby](http://ruby-lang.org) programming language, and have a working understanding of multi-threaded programming.
+
+## Important Concepts
+
+You will want to familiarize yourself with these core ideas, beyond the prerequisites:
+
+* [Actor Model](https://en.wikipedia.org/wiki/Actor_model).
+* [Event-driven Programming](https://en.wikipedia.org/wiki/Event-driven_programming).
+* [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock).
+* [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing).
+* [Concurreny computing](https://en.wikipedia.org/wiki/Concurrent_computing).
+* [Asynchrony](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming).
+
+## Putting together your proposal...
+
+Please pay close attention to provide the following in your project proposals this year:
 
 1. Your personal information; include as much as you can, for example:
   * Geographical location, school, and **timezone**.
@@ -34,16 +49,3 @@ Please be sure to pay close attention to answer these questions in your project 
   * What extra items do you hope to accomplish?
   * What is your timeline for the project?
     * What tasks will you finish each week?
-
-## Prerequisites
-
-Students must have a working knowledge of the [Ruby](http://ruby-lang.org) programming language, and some understanding of multi-threaded programming.
-
-## Important Concepts
-
-You will want to familiarize yourself with these core ideas, beyond the the prerequisites:
-
-* [Actor Model](https://en.wikipedia.org/wiki/Actor_model).
-* [Event-driven Programming](https://en.wikipedia.org/wiki/Event-driven_programming).
-* [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock).
-* Parallelism, Asynchrony, and Concurrency.
