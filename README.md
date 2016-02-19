@@ -8,7 +8,7 @@ Multi-core multi-threaded programming can drive you insane. But with Celluloid, 
 
 * Read our [Proposal Guidelines](https://github.com/celluloid/GSoC/blob/master/proposals_guidelines.md).
 
-* Find out how where we [communicate](https://github.com/celluloid/GSoC/wiki/Communication).
+* Find out where we [communicate](https://github.com/celluloid/GSoC/wiki/Communication).
 
 * **Browse our repositories:**
   * [Celluloid][1]
