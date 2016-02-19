@@ -2,6 +2,8 @@
 
 * Check out our **[Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List)** for projects.
 
+* Read our [Proposal Guidelines](https://github.com/celluloid/GSoC/blob/master/proposals_guidelines.md).
+
 * Find out how where we [communicate](https://github.com/celluloid/GSoC/wiki/Communication).
 
 * Browse our repositories:
