@@ -2,5 +2,5 @@
 
 ### Students
 
-* Check out our [Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List)
+* Check out our *[Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List)* for projects.
 * Find out how where we [communicate](https://github.com/celluloid/GSoC/wiki/Communication).
