@@ -1,6 +1,6 @@
 # Thank you for your interest in Celluloid!
 
-Have you ever wanted to work with multi-threaded, multi-core applications and servers in Ruby? Take a look through our [Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List) or put together a proposal for a project of your own idea.
+Have you ever wanted to work with multi-threaded, multi-core applications and servers in Ruby? Take a look through our [Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List) or put together a proposal for a project of your own idea. We appreciate your help!
 
 ## Prerequisites
 
@@ -8,7 +8,7 @@ Students must be comfortable with the [Ruby programming language](http://ruby-la
 
 ## Important Concepts
 
-Familiarize yourself with these core ideas, beyond the prerequisites:
+Familiarize yourself with these ideas beyond the prerequisites:
 
 * [Actor Model](https://goo.gl/YuzMrv).
 * [Event-driven Programming](https://goo.gl/hs231Y).
