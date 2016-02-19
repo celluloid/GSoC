@@ -27,7 +27,7 @@ Prepare to give several hours per week to help students learn to participate in 
 
 This year we are providing mentor support, so if you are unable to do more hours in a given week and a student needs more help to stay on track -- you can rely on other mentors to help.
 
-The overall program is for 12-weeks, during the Summer. The relationships formed with students can last their entire career, and there might not be a better way to improve yourself, as not just a coder -- but as a person. It is a truly rewarding experience.
+The overall program lasts for 12-weeks but the relationships formed with students can last their entire career,. There might not be a better way to improve yourself, as not just a coder -- but as a person. It is a truly rewarding experience.
 
 
 [1]: https://github.com/celluloid/celluloid
