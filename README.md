@@ -1,5 +1,9 @@
 ## Celluloid in the Google Summer of Code
 
+> Painless multi-threaded multi-core programming for Ruby.
+
+Multi-core multi-threaded programming can drive you insane. But with Celluloid, coders create high-performance parallel, asynchronous, concurrent, even distributed systems: simply.
+
 * Check out our **[Ideas List](https://github.com/celluloid/GSoC/wiki/Ideas-List)**.
 
 * Read our [Proposal Guidelines](https://github.com/celluloid/GSoC/blob/master/proposals_guidelines.md).
