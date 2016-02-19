@@ -1,4 +1,4 @@
-## Do high-performance multi-threaded multi-core programming in Ruby.
+## Do multi-threaded multi-core programming in Ruby.
 
 Instead of resorting Erlang, Elixr, Rust, Go, and Akka to use the [Actor Model](https://goo.gl/YuzMrv) or do [Event-driven Programming](https://goo.gl/hs231Y), keep writing more and more powerful Ruby code in new ways. With Celluloid, anyone can write their own server applications. But it doesn't stop at server applications...
 
