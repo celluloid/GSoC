@@ -4,7 +4,7 @@ This is a collection of summaries and stories from `Google Summer of Code` in th
 
 ## Students
 
-- Use the file-name pattern of `YYYY-Title_Words-Name_Words.md` and the Markdown format.
+- Use the file-name pattern of `YYYY-Title_Words.md` and the Markdown format. Include your GitHub username as a link within the report, as well as other publicly viewable contact information.
 
 - Give an overall summary paragraph of what the project involved. If applicable, give a link to the main repository of the software being worked on during the project.
 
