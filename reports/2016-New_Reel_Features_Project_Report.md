@@ -21,9 +21,35 @@ Session Handler can be turned `on` into Reel by requiring `reel/session` module 
 Currently we are using `Celluloid Concurrent Hash` for `Store`, but plan is to extend it by implementing multiple stores/supporting drivers like `Hash with mutex`, `Redis`, `Yaml`, `Mongodb` etc which can be used based on Application context.
 
 ## Multipart Parser
-TODO: Introduction
+* [Multipart Parser Code](https://github.com/pulkit4tech/reel/tree/multipart-0.0.1)
+* [Multipart Parser examples](https://github.com/pulkit4tech/reel/blob/multipart-0.0.1/examples/hello_world_multipart.rb)
+* [Multipart Parser Tests](https://github.com/pulkit4tech/reel/blob/multipart-0.0.1/spec/reel/multipart_spec.rb)
+
+**Abstract**
+
+Multipart Parser is built on using this parser [gem](https://github.com/danabr/multipart-parser). Multipart Parser can be included by requiring `reel/request/multipart` into application. Methods that are provided by `Multipart` module includes:
+* multipart? : Checks for `Multipart Type` request (initialize parser engine if request is of multipart type).
+* multipart : Parses `streaming request body` and returns : 
+```
+if multipart type
+      return Hash :
+      {
+       key1 => {
+         :data => Tempfile object (contains parsed data),
+         :complete => true/false,
+         :part => part object (header info etc)
+       },
+       key2 => {...}
+     }
+    if not multipart type
+       return nil
+```
+**Extension**
+
+Maintainance and updation of parser gem as per current need. Most of test are covered but still more to be added. 
 
 ## Other Links :
+* [Project Commits](https://github.com/pulkit4tech/reel/commits/gsoc16?author=pulkit4tech)
 * [Project Abstract](https://summerofcode.withgoogle.com/projects/#5868033230766080)
 * [My Blog](https://pulkit4tech.wordpress.com/)
 * [About Me](https://about.me/pulkit4tech)
