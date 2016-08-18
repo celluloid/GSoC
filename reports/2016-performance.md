@@ -63,6 +63,9 @@ Reel is Celluloid::IO native, non-blocking evented server. The main aim here was
 
 ##Other Details
 [Github](https://github.com/prathmeshranaut)
+
 [Blog](http://blog.prathmeshranaut.com)
+
 [Celluloid](https://github.com/celluloid/celluloid)
+
 [Reel](https://github.com/celluloid/reel)
