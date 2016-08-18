@@ -45,7 +45,6 @@ The benchmarking suite was created to measure the performance improvements done 
 Reel is Celluloid::IO native, non-blocking evented server. The main aim here was to improve the test suite which can be seen in the above link and create a benchmarking suite, which couldn't be completed. This is something I plan on doing after the completion of GSoC.
 
 ##Tools Used
----
 1. [RubyProf](https://github.com/ruby-prof/ruby-prof)
 2. [StackProf](https://github.com/tmm1/stackprof)
 3. [Method Profiler](https://github.com/change/method_profiler)
@@ -63,11 +62,7 @@ Reel is Celluloid::IO native, non-blocking evented server. The main aim here was
 4. There could be a possible bottleneck in the architecture of how Celluloid is written. We could definitely consider making architectural changes. [https://github.com/celluloid/celluloid/blob/master/architecture.md](https://github.com/celluloid/celluloid/blob/master/architecture.md)
 
 ##Other Details
----
 [Github](https://github.com/prathmeshranaut)
-
 [Blog](http://blog.prathmeshranaut.com)
-
 [Celluloid](https://github.com/celluloid/celluloid)
-
 [Reel](https://github.com/celluloid/reel)
