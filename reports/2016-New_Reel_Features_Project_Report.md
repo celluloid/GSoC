@@ -18,7 +18,7 @@ Session Handler can be turned `on` into Reel by requiring `reel/session` module 
 
 **Extension**
 
-Currently we are using `Celluloid Concurrent Hash` for `Store`, but plan is to extend it by implementing multiple stores/supporting drivers like `Hash with mutex`, `Redis`, `Yaml`, `Mongodb` etc which can be used based on Application context.
+Currently we are using `Celluloid Concurrent Hash` for `Store`, but plan is to extend it by implementing multiple stores/supporting drivers like `Hash with mutex`, `Redis`, `memcached`, `Mongodb` etc which can be used based on Application context.
 
 ## Multipart Parser
 * [Multipart Parser Code](https://github.com/pulkit4tech/reel/tree/multipart-0.0.1)
@@ -43,7 +43,10 @@ if multipart type
      }
     if not multipart type
        return nil
+
+Here keys are part.name for different file upload
 ```
+
 **Extension**
 
 Maintainance and updation of parser gem as per current need. Most of test are covered but still more to be added. 
