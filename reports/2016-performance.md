@@ -37,6 +37,7 @@ The benchmarking suite was created to measure the performance improvements done 
 	pool - 10    0.040000   0.000000   0.040000 (  0.043268)
 	pool - 100   0.040000   0.010000   0.050000 (  0.041099)
 	
+![Method Profile of Actor](http://i.imgur.com/0WDvAbV.png)
 
 ---
 ###Reel
@@ -60,9 +61,9 @@ Reel is Celluloid::IO native, non-blocking evented server. The main aim here was
 
 # Scope for future improvements
 1. Based on the benchmark results, Sidekiq 4 calls a method called `safe_thread` for creating new Threads whereas Celluloid deals with `mutex` and suspending `Threads`.
-2. Method Profiler reported that Fiber being initialized 10000 times for only 2000 job in the method profile. This might a place where we could further explore and make tweaks to make improvements. ![Method Profile of Fiber](http://i.imgur.com/NJf4VqM.png)
+2. Method Profiler reported that Fiber being called 10000 for only 2000 job in the Mutex profile. This might a place where we could further explore and make tweaks to make improvements. ![Method Profile of Fiber](http://i.imgur.com/NJf4VqM.png)
 3. Celluloid is using thread per actor so the `pool` benchmark is creating about `n` native threads. [Concurrent Ruby Actor](http://ruby-concurrency.github.io/concurrent-ruby/Concurrent/Actor.html) is using constant number of threads. 
-4. There could be a possible bottleneck in the architecture of how Celluloid is written. We could definitely consider making architectural changes. [https://github.com/celluloid/celluloid/blob/master/architecture.md](https://github.com/celluloid/celluloid/blob/master/architecture.md)
+4. There could be a possible bottleneck in the architecture of how Celluloid is written. We could definitely consider making architectural changes. [https://github.com/celluloid/celluloid/blob/master/architecture.md](https://github.com/celluloid/celluloid)blob/master/architecture.md)
 
 # Commits
 
@@ -105,7 +106,8 @@ Reel is Celluloid::IO native, non-blocking evented server. The main aim here was
 
 [Instruction for cloning Celluloid via github](https://github.com/prathmeshranaut/celluloid/commit/f403f59a5b2a671537bfa3af5a4069e3b0ac8ce5)
 
-[Merge branch 'multiplex' of https://github.com/celluloid/celluloid](https://github.com/prathmeshranaut/celluloid/commit/d96ea3699d0a41583ade963a512b81a7f31a3dd1)
+[Merge branch 'multiplex' of https://github.com/celluloid/celluloid](https://github.com/prathmeshranaut/celluloid/commit/d96ea3699d0a
+---41583ade963a512b81a7f31a3dd1)
 
 ###Reel
 [Extracted the example request string](https://github.com/prathmeshranaut/reel/commit/9a8ed5fb91935ab8c90c2f1f47b9194d30057ac9)
