@@ -1,11 +1,15 @@
-# Project : [Adding New Reel Features](https://github.com/pulkit4tech/reel/tree/gsoc16)
+# [Adding New Reel Features](https://github.com/pulkit4tech/reel/tree/gsoc16)
 > Celluloid, Google Summer of Code 2016
+
+> Mentors : [@kenichi](https://github.com/kenichi) , [@digitalextremist](https://github.com/digitalextremist)
+
+> [Project Commits](https://github.com/pulkit4tech/reel/commits/gsoc16?author=pulkit4tech)
 
 ### Summary
 Reel is Celluloid::IO native, evented server which serves as bare-bones for http and webSocket server providing functionality such as Connection Management and Multithreading , Fault Tolerance. 
 This project aims to extend Reel by adding new important features such as:
 * Session Handler
-* Multi-part parser
+* Multipart Parser
 
 ## Session Handler
 * [Session Handler Code](https://github.com/pulkit4tech/reel/tree/final_sessions)
@@ -52,7 +56,6 @@ Here keys are part.name for different file upload
 Maintainance and updation of parser gem as per current need. Most of test are covered but still more to be added. 
 
 ## Other Links :
-* [Project Commits](https://github.com/pulkit4tech/reel/commits/gsoc16?author=pulkit4tech)
 * [Project Abstract](https://summerofcode.withgoogle.com/projects/#5868033230766080)
-* [My Blog](https://pulkit4tech.wordpress.com/)
+* [Blog](https://pulkit4tech.wordpress.com/)
 * [About Me](https://about.me/pulkit4tech)
