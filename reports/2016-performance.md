@@ -3,7 +3,7 @@
 ##Summary
 The primary goal of the project was to improve the performance of the underlying [Celluloid framework](https://github.com/celluloid/celluloid), explore future areas for performance improvement and create a benchmarking suite to lay the foundation for measuring future performance improvements.
 
-
+---
 ###Celluloid
 [Benchmarks & Test Suite](https://github.com/prathmeshranaut/celluloid/commits/multiplex?author=prathmeshranaut)
 
@@ -11,7 +11,7 @@ The primary goal of the project was to improve the performance of the underlying
 
 [Instruction to Clone and run Celluloid](https://github.com/celluloid/celluloid/pull/721)
 
----
+
 ####Abstract
 The benchmarking suite was created to measure the performance improvements done while making tweaks to the code. Changes made in pool resulted in the performance increase of about 3x times.
 
@@ -35,12 +35,12 @@ The benchmarking suite was created to measure the performance improvements done 
 	pool - 100   0.040000   0.010000   0.050000 (  0.041099)
 	
 
+---
 ###Reel
 [Tests - Pull Request](https://github.com/celluloid/reel/pull/227)
 
 [Individual Commits](https://github.com/prathmeshranaut/reel/commits/master?author=prathmeshranaut)
 
----
 ####Abstract
 Reel is Celluloid::IO native, non-blocking evented server. The main aim here was to improve the test suite which can be seen in the above link and create a benchmarking suite, which couldn't be completed. This is something I plan on doing after the completion of GSoC.
 
