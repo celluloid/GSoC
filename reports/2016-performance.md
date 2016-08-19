@@ -1,6 +1,7 @@
 # Performance Improvement and Benchmarking
 > Celluloid provides a simple and natural way to build fault-tolerant concurrent programs in Ruby.
-> Mentors : [@chuckremes](https://github.com/chuckremes), [@digitalextremist](https://github.com/digitalextremist)
+
+>Mentors : [@chuckremes](https://github.com/chuckremes), [@digitalextremist](https://github.com/digitalextremist)
 
 ##Summary
 The primary goal of the project was to improve the performance of the underlying [Celluloid framework](https://github.com/celluloid/celluloid), explore future areas for performance improvement and create a benchmarking suite to lay the foundation for measuring future performance improvements.
@@ -68,7 +69,6 @@ Reel is Celluloid::IO native, non-blocking evented server. The main aim here was
 ###Celluloid Pool
 [Removed redundant code, improves performance by upto 3 times](https://github.com/prathmeshranaut/celluloid-pool/commit/b4e42515cfe6095372ce436fd9a2a991b7f3ea5e)
 
----
 ###Celluloid
 
 [Fixed issues with RuboCop](https://github.com/prathmeshranaut/celluloid/commit/8b0ebefaece96d4d00593c7ffca2d30d3d1b2dc8)
@@ -107,7 +107,6 @@ Reel is Celluloid::IO native, non-blocking evented server. The main aim here was
 
 [Merge branch 'multiplex' of https://github.com/celluloid/celluloid](https://github.com/prathmeshranaut/celluloid/commit/d96ea3699d0a41583ade963a512b81a7f31a3dd1)
 
----
 ###Reel
 [Extracted the example request string](https://github.com/prathmeshranaut/reel/commit/9a8ed5fb91935ab8c90c2f1f47b9194d30057ac9)
 
