@@ -3,13 +3,13 @@
 
 > Mentors : [@kenichi](https://github.com/kenichi) , [@digitalextremist](https://github.com/digitalextremist)
 
-> [Project Commits](https://github.com/pulkit4tech/reel/commits/gsoc16?author=pulkit4tech)
+> **[Project Commits](https://github.com/pulkit4tech/reel/commits/gsoc16?author=pulkit4tech)**
 
 ### Summary
 Reel is Celluloid::IO native, evented server which serves as bare-bones for http and webSocket server providing functionality such as Connection Management and Multithreading , Fault Tolerance. 
 This project aims to extend Reel by adding new important features such as:
-* Session Handler
-* Multipart Parser
+* **Session Handler**
+* **Multipart Parser**
 
 ## Session Handler
 * [Session Handler Code](https://github.com/pulkit4tech/reel/tree/final_sessions)
