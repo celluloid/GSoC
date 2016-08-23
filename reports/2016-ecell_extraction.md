@@ -1,5 +1,12 @@
-## Note: The code is being migrated to the public repo by my mentor. It should be there by August 23.
-## Also TODO: update book link to built version
+# Project: [ECell Extraction][3]
+
+Student: [@benzrf](https://github.com/benzrf)
+
+Mentor: [@digitalextremist](https://github.com/digitalextremist)
+
+**Google Summer of Code 2016**; Organization: [Celluloid](https://summerofcode.withgoogle.com/organizations/6688531397214208/)
+
+## Summary
 
 I started with an existing, undocumented codebase written for use in a specific
 application, and over the course of the project I turned it into a
@@ -19,9 +26,11 @@ Hopefully, it should now be possible to dive into [ECell's code][2] with at
 least a general idea of what you're looking at (as long as you read [the
 book][1] first!). [Here are my commits][3] in specific.
 
-[1]: https://github.com/celluloid/ecell/tree/master/book
+[1]: https://www.gitbook.com/book/digitalextremist/ecell/details
 [2]: https://github.com/celluloid/ecell
 [3]: https://github.com/celluloid/ecell/commits?author=benzrf
+
+## Experiences
 
 Here are some of the major things I had to think about or deal with while
 working on ECell:
