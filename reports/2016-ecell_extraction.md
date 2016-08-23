@@ -1,10 +1,10 @@
-# Project: [ECell Extraction][3]
+# Project: [ECell Extraction][8]
 
-Student: [@benzrf](https://github.com/benzrf)
+Student: [@benzrf][4]
 
-Mentor: [@digitalextremist](https://github.com/digitalextremist)
+Mentor: [@digitalextremist][5]
 
-**Google Summer of Code 2016**; Organization: [Celluloid](https://summerofcode.withgoogle.com/organizations/6688531397214208/)
+**Google Summer of Code 2016**; Organization: [Celluloid][6]
 
 ## Summary
 
@@ -25,10 +25,6 @@ mini-book][1], and began the process of setting up a test suite.
 Hopefully, it should now be possible to dive into [ECell's code][2] with at
 least a general idea of what you're looking at (as long as you read [the
 book][1] first!). [Here are my commits][3] in specific.
-
-[1]: https://www.gitbook.com/book/digitalextremist/ecell/details
-[2]: https://github.com/celluloid/ecell
-[3]: https://github.com/celluloid/ecell/commits?author=benzrf
 
 ## Experiences
 
@@ -61,3 +57,23 @@ working on ECell:
   something held up work on that thing, doing nothing instead of working on
   something else.
 
+## Link Index
+
+- [Project Source Code][2]
+- [Project Gitbook][1]
+- [My Commits][3]
+- [My Github Profile][4]
+- [Originator Citation][8]
+- [My Mentor's Github Profile][5]
+- Celluloid:
+  - [GSoC Organization][6]
+  - [Github Organization][7]
+
+[1]: https://www.gitbook.com/book/digitalextremist/ecell/details
+[2]: https://github.com/celluloid/ecell
+[3]: https://github.com/celluloid/ecell/commits?author=benzrf
+[4]: https://github.com/benzrf
+[5]: https://github.com/digitalextremist
+[6]: https://summerofcode.withgoogle.com/organizations/6688531397214208/
+[7]: https://github.com/celluloid
+[8]: https://github.com/celluloid/ecell#originators
